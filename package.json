@@ -238,7 +238,7 @@
     "prettier": "^1.19.0",
     "prop-types": "^15.7.0",
     "puppeteer": "^5.0.0",
-    "raw-loader": "^4.0.0",
+    "raw-loader": "^4.0.2",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-is": "^16.13.0",
